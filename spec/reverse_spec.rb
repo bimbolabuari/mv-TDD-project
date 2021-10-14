@@ -1,4 +1,4 @@
-require_relative '../lib/reverse'
+require_relative '../lib/solver'
 
 describe Solver do
   context 'When called method reserve' do

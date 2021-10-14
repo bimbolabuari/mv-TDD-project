@@ -10,4 +10,8 @@ class Solver
     end
     result
   end
+
+  def reverse(string)
+    string.split("").reverse().join("")
+  end
 end
